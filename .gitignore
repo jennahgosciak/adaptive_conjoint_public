@@ -1,0 +1,12 @@
+.RHistory
+.RProj*
+*.RData
+*.docx
+02_output/figures/
+01_input/
+run_political_candidates_files/
+automate_candidates_files/
+.Rproj.user
+*.pdf
+config.yml
+_data_private/
